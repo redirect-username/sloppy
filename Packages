@@ -1,0 +1,16 @@
+Package: com.user.powerslides
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: redirect-username
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/com.user.powerslides_1.0.1_iphoneos-arm64.deb
+Size: 11408
+MD5sum: 0f7d002310e9eca94d36deb185ac5e5e
+SHA1: 22d7a2d4a7422777704a08c722950152c85c6c96
+SHA256: 2fd136ef95722bd6475507df3965961300a02ade9b5e78faec252dab675d3970
+Section: Tweaks
+Description: Adds slide to respring and safe mode to the power menu
+Author: redirect-username
+Name: PowerSlides
+
